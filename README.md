@@ -1,7 +1,7 @@
 # UserScripts
 Userscripts for browser
 
-See more at
+See more / easily install them at
 
 <a href="https://greasyfork.org/ru/users/303426"  target="_blank">
    <p class="name" style="margin-bottom: 0px; margin-left: 9px;">GreasyFork</p>
